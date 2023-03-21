@@ -39,7 +39,7 @@ main header .navleft{
 }
 
 .navleft img{
-  height: 50px;
+  height: 85px;
 }
 
 main header .navright{
@@ -68,7 +68,7 @@ main header .navright{
 }
 
 .login-header img.login-image{
-  height:75%;
+  height:70px;
   border: 1.5px solid #000;
   border-radius:50%;
   margin-left: 10px;
@@ -77,7 +77,7 @@ main header .navright{
 .navright .hamburger{
   position: relative;
   color: #000;
-  font-size:25px;
+  font-size:45px;
 }
 
 main .showcase{
@@ -131,7 +131,7 @@ main .reporter-info{
 }
 
 .rep-info-left img{
-  height: 30px;
+  height: 60px;
   border-radius:50%;
   margin-right:13px;
 }
@@ -169,8 +169,8 @@ main .reporter-info{
 
 .rep-info-right .circled-share-icon{
   margin-left:auto;
-  height: 35px;
-  width:35px;
+  height: 55px;
+  width:55px;
   border-radius:50%;
   border: 1px solid #000;
   display:flex;
@@ -283,8 +283,8 @@ main .share-section{
 }
 
 .share-icons .share-icon{
-  height:32px;
-  width: 32px;
+  height:60px;
+  width: 60px;
   border-radius: 50%;
   border: 1.5px solid #00285e;
   display:flex;
@@ -294,7 +294,7 @@ main .share-section{
 }
 
 .share-icon a{
-  font-size:20px;
+  font-size:45px;
   color: #00285e;
   fonr-weight:600;
 }
@@ -578,8 +578,8 @@ footer .footer-icons{
 }
 
 .footer-icons .footer-icon{
-  height: 40px;
-  width:40px;
+  height: 70px;
+  width:70px;
   background-color: rgb(151,193,231,0.4);
   border-radius:50%;
   display:flex;
